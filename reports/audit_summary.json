@@ -1,0 +1,16 @@
+{
+  "catalog_count": 480,
+  "total_bytes": 200373120,
+  "schema_variants": {
+    "0e3b2865443b56a8": 480
+  },
+  "status_counts": {
+    "PASS": 480
+  },
+  "missing_registry_ids": [],
+  "unexpected_ids": [],
+  "issues": [],
+  "ic_count_mismatches": 478,
+  "infinite_values": 415900,
+  "unstable_files": []
+}

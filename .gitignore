@@ -1,0 +1,13 @@
+private/
+.venv/
+__pycache__/
+*.pyc
+*.hdf5
+*.h5
+*.npy
+*.zip
+*.tar*
+.env
+.env.*
+dist/
+data/

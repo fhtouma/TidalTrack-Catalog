@@ -1,0 +1,68 @@
+[
+  {
+    "simulation_id": "Sim_0000",
+    "snapshot": 0,
+    "header_time": 0.0
+  },
+  {
+    "simulation_id": "Sim_0000",
+    "snapshot": 500,
+    "header_time": 10.0
+  },
+  {
+    "simulation_id": "Sim_0000",
+    "snapshot": 1000,
+    "header_time": 20.0
+  },
+  {
+    "simulation_id": "Sim_0000",
+    "raw_hbt_snapshot": 0,
+    "radius_dtype": "float32",
+    "radius_is_infinite": true,
+    "BoundM200Crit": 1.4633090496063232
+  },
+  {
+    "simulation_id": "Sim_0001",
+    "snapshot": 0,
+    "header_time": 0.0
+  },
+  {
+    "simulation_id": "Sim_0001",
+    "snapshot": 500,
+    "header_time": 10.0
+  },
+  {
+    "simulation_id": "Sim_0001",
+    "snapshot": 1000,
+    "header_time": 20.0
+  },
+  {
+    "simulation_id": "Sim_0001",
+    "raw_hbt_snapshot": 0,
+    "radius_dtype": "float32",
+    "radius_is_infinite": true,
+    "BoundM200Crit": 1.4642829895019531
+  },
+  {
+    "simulation_id": "Sim_0479",
+    "snapshot": 0,
+    "header_time": 0.0
+  },
+  {
+    "simulation_id": "Sim_0479",
+    "snapshot": 500,
+    "header_time": 10.0
+  },
+  {
+    "simulation_id": "Sim_0479",
+    "snapshot": 1000,
+    "header_time": 20.0
+  },
+  {
+    "simulation_id": "Sim_0479",
+    "raw_hbt_snapshot": 0,
+    "radius_dtype": "float32",
+    "radius_is_infinite": true,
+    "BoundM200Crit": 1.6120970249176025
+  }
+]

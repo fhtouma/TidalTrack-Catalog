@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "title": "TidalTrack Catalog: 480 controlled N-body tidal-evolution simulations",
+    "upload_type": "dataset",
+    "description": "<p>Initial distribution (v0.1.0) of 480 time-dependent subhalo and stellar catalogs. The original HDF5 bytes are preserved; particle snapshots and intermediate data are excluded. Includes simulation metadata, SHA256 manifests and a README.</p><p>Known limitations: HBT/BoundR200CritComoving contains infinite values and is not a usable physical radius; derived fields contain NaNs; some recorded input particle counts precede pruning. Actual IC-header counts are provided separately. See the included README for measurement definitions and scientific limitations.</p>",
+    "creators": [
+      {
+        "name": "He, Feihong"
+      },
+      {
+        "name": "Jiang, Fangzhou"
+      }
+    ],
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "version": "0.1.0",
+    "keywords": [
+      "astrophysics",
+      "dark matter",
+      "tidal evolution",
+      "N-body simulations",
+      "subhalos"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/fhtouma/TidalTrack-Catalog",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}

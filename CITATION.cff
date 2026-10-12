@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this dataset with its authors, version and repository URL; a Zenodo DOI will be added when available."
+type: dataset
+title: "TidalTrack Catalog"
+version: "0.1.0"
+authors:
+  - family-names: He
+    given-names: Feihong
+  - family-names: Jiang
+    given-names: Fangzhou
+repository-code: "https://github.com/fhtouma/TidalTrack-Catalog"
+url: "https://github.com/fhtouma/TidalTrack-Catalog"
+license: CC-BY-4.0
+keywords:
+  - astrophysics
+  - dark matter
+  - tidal evolution
+  - N-body simulations
+  - subhalos
